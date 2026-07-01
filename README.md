@@ -98,3 +98,8 @@ game starts lagging at like 200k speed so like idk maybe stay away from 100k and
 
 
 update: limit is 75k before your game dies, we found 70k to be the absolute limit
+
+
+# extras
+
+for an uncap on basically almost literally anything i could find, go ***[here](https://github.com/RobertFlexx/value-unlocker)*** for absolute freedom

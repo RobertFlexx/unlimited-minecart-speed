@@ -95,3 +95,4 @@ high speeds can outrun chunk loading, make servers lag, or send carts so far awa
 
 if it breaks, lower the gamerule or stop feeding it powered rails.
 game starts lagging at like 200k speed so like idk maybe stay away from 100k and over
+update: limit is 75k before your game dies, we found 70k to be the absolute limit

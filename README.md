@@ -84,7 +84,7 @@ gradle clean build
 the mod jar will be here:
 
 ```text
-build/libs/unlimited-minecart-speed-1.1.0.jar
+build/libs/unlimited-minecart-speed-<version>.jar
 ```
 
 ## notes

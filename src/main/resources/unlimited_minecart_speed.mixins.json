@@ -1,0 +1,12 @@
+{
+  "required": false,
+  "package": "dev.robert.unlimitedminecarts.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [
+    "GameRulesMinecartMaxSpeedMixin",
+    "NewMinecartBehaviorMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 0
+  }
+}

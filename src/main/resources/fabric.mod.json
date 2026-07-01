@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "unlimited_minecart_speed",
+  "version": "${version}",
+  "name": "Unlimited Minecart Speed",
+  "description": "Raises Minecraft 26.2's minecartMaxSpeed gamerule cap so commands can set very high real minecart speed limits.",
+  "authors": ["RobertFlexx"],
+  "license": "MIT",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "dev.robert.unlimitedminecarts.UnlimitedMinecartSpeed"
+    ]
+  },
+  "mixins": [
+    "unlimited_minecart_speed.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.19.3",
+    "minecraft": "~26.2",
+    "java": ">=25",
+    "fabric-language-kotlin": "*"
+  },
+  "suggests": {
+    "fabric-api": "*"
+  }
+}
